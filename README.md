@@ -1,16 +1,42 @@
 ## Hi there 👋
 
-<!--
-**fabxcop1/Fabxcop1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm a Developer 👋
 
-Here are some ideas to get you started:
+### Aspiring Software Developer | AI & Automation | Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building useful applications, experimenting with AI tools, automating tasks, and turning ideas into real-world projects.
+
+- 🔭 Currently working on AI-powered tools and web applications
+- 🌱 Learning Python, JavaScript, APIs, and backend development
+- 🤖 Interested in AI agents, automation, and developer tools
+- 💻 Building projects to improve my programming skills
+- 🎯 Goal: Become a skilled software developer and build impactful technology
+
+### 🛠️ Tech Stack
+
+**Languages & Web Development**
+- Python
+- JavaScript
+- HTML5
+- CSS3
+- Java
+
+**Tools & Technologies**
+- Git & GitHub
+- Visual Studio Code
+- FastAPI
+- REST APIs
+- AI Coding Tools
+- Automation & Testing
+
+### 🚀 Featured Projects
+
+- **AI Tools** — Experiments with AI-powered applications and developer assistants.
+- **Automation Projects** — Scripts and tools designed to automate repetitive tasks.
+- **Web Development** — Websites, APIs, and interactive applications.
+- **Gaming Experiments** — Exploring computer vision and automation through game-related projects.
+
+
+---
+
+*Always learning, building, and improving — one project at a time.*
